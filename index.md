@@ -9,3 +9,5 @@ You can stop all collection of information by the Application easily by uninstal
 We do not use the Application to knowingly solicit data from or market to children under the age of 13.
 
 By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States. If you reside outside the United States your information will be transferred, processed and stored there under United States privacy standards. 
+
+Some of the Oatcube games will need permission to access the devices external or internal storage to save game data and or progress. This permission will automatically cancel when uninstalling the game.
