@@ -28,4 +28,8 @@ Advertisement
 
 Ads will be produced by a third party which may or may not collect individual data to present personalized ads. This data will not be collected by the developer.
 
-This policy is effective as of 2022-08-30
+Right to be forgotten
+
+The user is at any point eligible for account and data deletion. To delete your account on parts of your data from any of the Oatcube Games, send an email to oatcubetester@gmail.com with details regarding that game and the account in use.
+
+This policy is effective as of 2024-01-19
