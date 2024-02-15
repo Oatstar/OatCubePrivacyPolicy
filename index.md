@@ -16,10 +16,6 @@ Links to Other Sites
 
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services. 
 
-3rd Party Services that relate to this game:
-https://playfab.com/terms/
-https://unity.com/legal/privacy-policy
-
 Security
 
 I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
@@ -33,3 +29,12 @@ Right to be forgotten
 The user is at any point eligible for account and data deletion. To delete your account on parts of your data from any of the Oatcube Games, send an email to oatcubetester@gmail.com with details regarding that game and the account in use.
 
 This policy is effective as of 2024-01-19
+
+Game specific exceptions:
+BulletPop:
+- This game does not collect any user data.
+
+Pullomummot / Bottle Grannies
+- 3rd Party Services that relate to  game:
+- https://playfab.com/terms/
+- https://unity.com/legal/privacy-policy
